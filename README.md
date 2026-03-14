@@ -53,9 +53,3 @@ A collection of machine learning projects showcasing algorithms, data preprocess
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the repository.
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License.
-```
-
-Would you like me to make this README more **beginner-friendly with step-by-step tutorials** or more **professional with advanced ML workflows** (like CI/CD, Docker, and deployment notes)?
